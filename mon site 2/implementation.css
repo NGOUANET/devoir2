@@ -1,0 +1,84 @@
+body{
+    background-color: rgba(80, 80, 79, 0.57);
+}
+.menu-left{
+    display: flex;
+    align-items:row ;
+background-color: blue;
+width: 100%;
+margin-top: 10px;
+
+
+}
+.search{
+margin-top: 12px;}
+
+.menu-left ul li{
+    list-style-type: none;
+    margin-left: 5px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    align-items: row;
+
+
+    
+}
+.menu-left ul li a h1{
+    font-size: 20px;
+
+}
+a{
+    text-decoration: none;
+}
+.menu-left ul li a h1{
+border : 3px red solid;
+    color: black;
+    margin-top: -13px;
+
+}
+.menu-right{
+    background-color: blueviolet;
+    width: 30%;
+    display: block;
+    right: 0;
+    position: fixed;
+    margin-top: 3px;
+    margin-right: 10px;
+    height: 450px;
+    
+}
+.menu-right h3{
+    display: flex;
+    text-align: center;
+    margin-left: 20px;
+}
+.top{
+    margin-top: 30px;
+    text-align: center;
+}
+.left-section{
+    width: 69.3%;
+    margin-left: px;
+    background-color: white;
+    margin-top: -18px;
+    height:450px;
+}
+.title1 h1{
+    text-align: center;
+    
+}
+.pied{
+    background-color: white;
+    display: block;
+    margin-top: 5px;
+    height: 50px;
+    text-align: center;
+}
+.menu-right h1{
+    text-align: center;
+}
+.menu-right ul li h3{
+    text-align: center;
+    padding: 20px;
+}
